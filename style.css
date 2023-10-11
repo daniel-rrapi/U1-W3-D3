@@ -1,0 +1,34 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #e0ecff;
+    box-sizing: border-box;
+}
+h1 {
+    color: white;
+    background-color: #458fff;
+    padding: 1rem;
+    margin-bottom: 3rem;
+}
+.clickedLi {
+    text-decoration: line-through;
+}
+div {
+    background-color: #93beff;
+    height: auto;
+    
+}
+div li {
+    text-align: left;
+    margin-inline: auto;
+    width: fit-content;
+}
+div button {
+    display: block;
+    margin-inline: auto;
+    margin-bottom: 3rem;
+    
+}
+ul {
+    list-style-type: square;
+}
